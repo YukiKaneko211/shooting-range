@@ -34,6 +34,12 @@ I used a lot of third party assets provided on Fab market place. Models and anim
 
 To play the game, execute `FiringRange.exe` in the project folder.
 
+- Move forward, backward, left and right using the WASD keys.
+- Look around using the mouse.
+- Shoot using the left mouse click.
+- Aim using right mouse click.
+- Pickup ammo on the table to reload. 
+
 You can also check the test play video.
 
 [![video](https://img.youtube.com/vi/lgHv_C8b5fM/maxresdefault.jpg)](https://youtu.be/lgHv_C8b5fM)
