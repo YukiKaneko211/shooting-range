@@ -32,7 +32,7 @@ I used a lot of third party assets provided on Fab market place. Models and anim
 
 ## How to Play
 
-To play the game, execute `FiringRange.exe` in the project folder.
+To play the game, download `Windows` folder and execute `ThePages.exe` in the folder.
 
 - Move forward, backward, left and right using the WASD keys.
 - Look around using the mouse.
